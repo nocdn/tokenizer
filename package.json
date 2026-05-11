@@ -17,6 +17,7 @@
     {
       "name": "count-tokens-in-clipboard",
       "title": "Count Tokens in Clipboard",
+      "subtitle": "Along with words, lines, characters",
       "description": "Counts tokens in the current clipboard text using a local o200k_base tokenizer.",
       "mode": "no-view"
     }
